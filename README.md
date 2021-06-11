@@ -6,7 +6,6 @@ Learn how a robot interacts with the environment using proximity sensors and how
 ![image](https://user-images.githubusercontent.com/37467941/121643825-e7160680-caaf-11eb-96b0-ae7726dd233a.png)
 
 <br>
-<br>
 <b>Image of Robot:-</b>
 <br>
 ![image](https://user-images.githubusercontent.com/37467941/121643995-188ed200-cab0-11eb-9702-31df66221c31.png)
